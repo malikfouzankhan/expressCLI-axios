@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "MFK"
+  },
+  {
+    "id": 2,
+    "name": "Abdullah"
+  },
+  {
+    "id": 3,
+    "name": "Rupjith"
+  },
+  {
+    "id": 4,
+    "name": "Kaif"
+  },
+  {
+    "id": 5,
+    "name": "Afnaan"
+  },
+  {
+    "id": 6,
+    "name": "Zoheb"
+  },
+  {
+    "id": 7,
+    "name": "Ahmed"
+  },
+  {
+    "id": 8,
+    "name": "Ibrahim"
+  },
+  {
+    "id": 9,
+    "name": "Suhail bhai"
+  },
+  {
+    "id": 10,
+    "name": "saboor"
+  },
+  {
+    "id": 11,
+    "name": "Rayyan"
+  },
+  {
+    "id": 12,
+    "name": "Kamran"
+  },
+  {
+    "id": 13,
+    "name": "Malik",
+    "age": "22",
+    "mobile": "9391"
+  },
+  {
+    "id": 14,
+    "name": "MFKhan",
+    "age": "22",
+    "mobile": "947"
+  }
+]
